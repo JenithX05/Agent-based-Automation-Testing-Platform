@@ -1,8 +1,8 @@
-# ?? AI Testing Automation Agent
+﻿# 🤖 AI Testing Automation Agent
 
 An intelligent full-stack testing automation platform that leverages Large Language Models (LLMs) to analyze GitHub repositories, generate test cases, create Playwright-style automation scripts, and execute them in real cloud browsers using Browserbase.
 
-## ?? Overview
+## 🚀 Overview
 
 Traditional QA workflows require significant manual effort to create and maintain test cases. This project automates the entire testing lifecycle by combining AI agents, browser automation, and cloud infrastructure.
 
@@ -15,35 +15,35 @@ The platform:
 - Executes tests in real cloud browsers via Browserbase
 - Produces execution reports and validation results
 
-## ? Features
+## ✨ Features
 
-### ?? Repository Analysis
+### 🔍 Repository Analysis
 - Connect GitHub repositories directly
 - AI analyzes project structure and application flows
 - Detects critical user journeys automatically
 
-### ?? AI-Powered Test Generation
+### 🧠 AI-Powered Test Generation
 - Generates intelligent test scenarios
 - Creates positive, negative, and edge-case tests
 - Produces Playwright-style automation scripts
 
-### ?? Browser Automation
+### 🌐 Browser Automation
 - Executes tests in real browsers using Browserbase
 - Supports automated navigation and interaction
 - Captures screenshots and execution logs
 
-### ? Asynchronous Processing
+### ⚡ Asynchronous Processing
 - Background job execution
 - Concurrent test generation and execution
 - Scalable architecture for large repositories
 
-### ?? Reporting & Insights
+### 📊 Reporting & Insights
 - Test execution summaries
 - Pass/Fail reports
 - Detailed logs for debugging
 - Coverage tracking
 
-## ??? Tech Stack
+## 🏗️ Tech Stack
 
 ### Frontend
 - Next.js
@@ -68,31 +68,31 @@ The platform:
 - GitHub API
 - Browserbase API
 
-## ?? System Architecture
+## ⚙️ System Architecture
 
 `
 GitHub Repository
-        �
-        ?
+        │
+        ▼
  AI Repository Analyzer
-        �
-        ?
+        │
+        ▼
  Test Case Generator
-        �
-        ?
+        │
+        ▼
  Playwright Script Generator
-        �
-        ?
+        │
+        ▼
  Browserbase Cloud Browser
-        �
-        ?
+        │
+        ▼
  Execution & Validation
-        �
-        ?
+        │
+        ▼
  Reports & Insights Dashboard
 `
 
-## ?? Workflow
+## 🧩 Workflow
 
 1. User submits a GitHub repository URL.
 2. AI analyzes the repository structure.
@@ -104,7 +104,7 @@ GitHub Repository
 8. Results, screenshots, and logs are stored.
 9. Dashboard displays execution reports.
 
-## ?? Key Highlights
+## 📈 Key Highlights
 
 - Automated end-to-end testing using AI agents
 - Intelligent GitHub repository understanding
@@ -113,7 +113,7 @@ GitHub Repository
 - Reduced manual QA effort significantly
 - Accelerated release validation cycles
 
-## ?? Future Improvements
+## 🎯 Future Improvements
 
 - Multi-agent orchestration for advanced testing workflows
 - Visual regression testing
@@ -122,7 +122,7 @@ GitHub Repository
 - AI-generated bug reports
 - Test suite optimization using historical results
 
-## ??? Installation
+## 🛠️ Installation
 
 `ash
 git clone https://github.com/yourusername/ai-testing-agent.git
@@ -134,7 +134,7 @@ npm install
 npm run dev
 `
 
-## ?? Environment Variables
+## 🔑 Environment Variables
 
 `
 OPENAI_API_KEY=
@@ -148,12 +148,12 @@ BROWSERBASE_API_KEY=
 BROWSERBASE_PROJECT_ID=
 `
 
-## ?? Contributing
+## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome. Feel free to fork the repository and submit a pull request.
 
-## ?? License
+## 📜 License
 
 This project is licensed under the MIT License.
 
-? If you found this project useful, consider giving it a star on GitHub!
+⭐ If you found this project useful, consider giving it a star on GitHub!
