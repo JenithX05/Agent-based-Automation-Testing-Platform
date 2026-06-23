@@ -70,7 +70,7 @@ The platform:
 
 ## ⚙️ System Architecture
 
-`
+```
 GitHub Repository
         │
         ▼
@@ -90,7 +90,7 @@ GitHub Repository
         │
         ▼
  Reports & Insights Dashboard
-`
+```
 
 ## 🧩 Workflow
 
@@ -124,7 +124,7 @@ GitHub Repository
 
 ## 🛠️ Installation
 
-`ash
+```bash
 git clone https://github.com/yourusername/ai-testing-agent.git
 
 cd ai-testing-agent
@@ -132,11 +132,11 @@ cd ai-testing-agent
 npm install
 
 npm run dev
-`
+```
 
 ## 🔑 Environment Variables
 
-`
+```
 OPENAI_API_KEY=
 
 DATABASE_URL=
@@ -146,7 +146,7 @@ GITHUB_TOKEN=
 BROWSERBASE_API_KEY=
 
 BROWSERBASE_PROJECT_ID=
-`
+```
 
 ## 🤝 Contributing
 
